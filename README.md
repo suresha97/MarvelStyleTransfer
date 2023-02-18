@@ -17,8 +17,8 @@ Using a pre-trained VGG-19 net, these were some of the experiments I ran:
 - Replace max pools with average pooling.
 
 
-As an example I wanted to generate the image of Tony Stark bravely sacrificing himself on the left, in the style of the abstract
-space man on the right:
+Here is an example. I wanted to generate the image of Tony Stark bravely sacrificing himself, in the style of the abstract
+space man below:
 
 ![alt-text-1](images/iron_man.jpg "title-1") ![alt-text-2](images/style5.jpeg "title-2")
 
