@@ -14,8 +14,7 @@ Using a pre-trained VGG-19 net, these were some of the experiments I ran:
 - Adam vs. LBFGS optimiser.
 - Initialise generated image to content image or style image rather than a white noise image.
 - Standardise images.
-- Effect of learning rate.
-- Replace max pools with average pooling. a and beta.
+- Replace max pools with average pooling.
 
 
 As an example I wanted to generate the image of Tony Stark bravely sacrificing himself on the left, in the style of the abstract
