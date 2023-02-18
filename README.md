@@ -1,12 +1,11 @@
 # StyleTrasfer
 
 As described in the original paper on nueral style transfer (https://arxiv.org/pdf/1508.06576.pdf), the basic 
-idea is to use nerual netwroks (specifically CNNs) to incrementally generate content from one image
+idea is to use nerual netwroks (specifically CNNs) to generate content from one image
 in the style of another resulting in strange and fantasic works of art. I wanted to try this out for 
 myself to understand it a bit better.
 
-
-These were some of the experiments I ran:
+Using a pre-trained VGG-19 net, these were some of the experiments I ran:
 - Varying image size.
 - Varying learning rate.
 - Relative importance of style and content losses.
